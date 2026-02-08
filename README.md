@@ -1,64 +1,77 @@
-## Hi there 👋
-
 <h1 align="center"> Bonjour, je suis Boubacar Thiam</h1>
 
-<p align="center">
- Développeur Informatique | Python • Java • PHP • Web <br>
- Passionné par les , SaaS et solutions numériques en Afrique <br>
 
- Sénégal
+<p align="center">
+Développeur Informatique Junior <br>
+ Python • Java • PHP • Web • Réseaux Informatiques <br>
+ Sénégal < confirms me wrong? remove emoji? keep simple> 
 </p>
 
----
+Objectif Professionnel
 
-##  Compétences
+Étudiant en informatique, je recherche un stage / job  une opportunité professionnelle en développement logiciel, systèmes ou réseaux informatiques afin de mettre en pratique mes compétences et contribuer à des projets réels.
 
-*Langages*
-- Python
-- Java
-- PHP
-- JavaScript
-- connaissance en reseaux 
+⸻
 
-*Web*
-- HTML / CSS
-- MySQL
-- Développement Web PHP
+Compétences Techniques
 
-*Outils*
-- Git & GitHub
-- Linux / Ubuntu
-- Docker (en progression)
-- VS Code / Eclipse
+💻 Développement
+	•	Python (Applications, Scripts, Logique métier)
+	•	Java (Programmation Orientée Objet)
+	•	PHP (Applications Web)
+	•	HTML / CSS / JavaScript
+	•	MySQL / Bases de données
 
----
+ Réseaux & Systèmes
+	•	Notions en Réseaux Informatiques
+	•	Administration Linux / Ubuntu
+	•	Configuration de base (IP, services, environnement)
+	•	Concepts infrastructure & systèmes
 
-##  Projets Principaux
+ Outils
+	•	Git & GitHub
+	•	VS Code / Eclipse
+	•	Docker (notions, en progression)
+	•	Déploiement d’applications
 
-### 🔹 Tontine App (Python)
-Application de gestion de tontine : membres, cycles, cotisations, finances.
+⸻
 
-### 🔹 Gestion Stock (PHP)
+Projets Réalisés
+
+🔹 Tontine App (Python)
+
+Application de gestion de tontine : gestion des membres, cycles, cotisations et finances.
+
+🔹 Gestion Stock (PHP)
+
 Application web de gestion d’inventaire : produits, entrées/sorties, suivi.
 
-### 🔹 Gestion PME (PHP)
+🔹 Gestion PME (PHP)
+
 Système de gestion pour petites entreprises : organisation, gestion clients.
 
-### 🔹 Système Universitaire (Java)
+🔹 Système Universitaire (Java)
+
 Gestion étudiants, cours, inscriptions — Programmation Orientée Objet.
 
-### 🔹 Web Scraping Python
-Extraction et analyse de données depuis le web avec Python.
+🔹 Web Scraping Python
 
----
+Extraction et analyse de données depuis le web.
 
-## 📊 Objectif
+⸻
 
-Construire des applications utiles, professionnelles et évolutives, et contribuer à des projets innovants en Afrique.
+ Centres d’intérêt
+	•	Développement d’applications professionnelles
+	•	Réseaux informatiques & systèmes
+	•	Solutions technologiques pour le recyclage et le développement durable
+	•	Innovation numérique & SaaS en Afrique
 
----
+⸻
 
-## 📫 Contact
+Contact
+	•	Email : boubacarthiam005@icloud.com
+	•	GitHub : https://github.com/BoubacarThiam
 
-- Email : boubacarthiam005@icloud.com
-- GitHub : https://github.com/BoubacarThiam
+⸻
+
+⭐ Disponible pour stage, collaboration ou opportunité junio
