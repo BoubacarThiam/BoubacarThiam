@@ -1,16 +1,64 @@
 ## Hi there 👋
 
-<!--
-**BoubacarThiam/BoubacarThiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Bonjour, je suis Boubacar Thiam</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+ Développeur Informatique | Python • Java • PHP • Web <br>
+ Passionné par les , SaaS et solutions numériques en Afrique <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Sénégal
+</p>
+
+---
+
+##  Compétences
+
+*Langages*
+- Python
+- Java
+- PHP
+- JavaScript
+- connaissance en reseaux 
+
+*Web*
+- HTML / CSS
+- MySQL
+- Développement Web PHP
+
+*Outils*
+- Git & GitHub
+- Linux / Ubuntu
+- Docker (en progression)
+- VS Code / Eclipse
+
+---
+
+##  Projets Principaux
+
+### 🔹 Tontine App (Python)
+Application de gestion de tontine : membres, cycles, cotisations, finances.
+
+### 🔹 Gestion Stock (PHP)
+Application web de gestion d’inventaire : produits, entrées/sorties, suivi.
+
+### 🔹 Gestion PME (PHP)
+Système de gestion pour petites entreprises : organisation, gestion clients.
+
+### 🔹 Système Universitaire (Java)
+Gestion étudiants, cours, inscriptions — Programmation Orientée Objet.
+
+### 🔹 Web Scraping Python
+Extraction et analyse de données depuis le web avec Python.
+
+---
+
+## 📊 Objectif
+
+Construire des applications utiles, professionnelles et évolutives, et contribuer à des projets innovants en Afrique.
+
+---
+
+## 📫 Contact
+
+- Email : boubacarthiam005@icloud.com
+- GitHub : https://github.com/BoubacarThiam
