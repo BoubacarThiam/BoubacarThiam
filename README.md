@@ -74,4 +74,4 @@ Contact
 
 ⸻
 
-⭐ Disponible pour stage, collaboration ou opportunité junio
+⭐ Disponible pour stage, collaboration ou opportunité de job
