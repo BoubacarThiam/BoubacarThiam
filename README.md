@@ -4,7 +4,7 @@
 <p align="center">
 Développeur Informatique Junior <br>
  Python • Java • PHP • Web • Réseaux Informatiques <br>
- Sénégal < confirms me wrong? remove emoji? keep simple> 
+ Sénégal 
 </p>
 
 Objectif Professionnel
